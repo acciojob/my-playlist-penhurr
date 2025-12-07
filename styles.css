@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center
+}
+h2{
+	text-align:center
+}
+li{
+	list-style-type:none
+}
+a{
+	text-decoration-line:none
+}
+.player_one{
+	background-color: rgb(255, 255, 255); 
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid black
+}
+body{
+	background-color: rgb(204, 204, 204)
+}
